@@ -1,9 +1,15 @@
-cow
-pig
-chicken
-shark
-whale
-loinfish
-lion
-monkey
-tiger 
+<!doctype html>
+<title>Learning about gh-pages</title>
+<body>
+<ul>
+   <li>cow</li>
+   <li>pig</li>
+   <li>chicken</li>
+   <li>shark</li>
+   <li>whale</li>
+   <li>loinfish</li>
+   <li>lion</li>
+   <li>monkey</li>
+   <li>tiger</li>
+</ul>
+</body>
