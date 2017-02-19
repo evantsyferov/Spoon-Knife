@@ -1,0 +1,9 @@
+cow
+pig
+chicken
+shark
+whale
+loinfish
+lion
+monkey
+tiger 
